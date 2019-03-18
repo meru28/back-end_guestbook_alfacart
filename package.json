@@ -1,0 +1,14 @@
+{
+  "name": "guestbook",
+  "version": "1.0.0",
+  "description": "test bikin guestbook",
+  "main": "index.js",
+  "author": "meru",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
